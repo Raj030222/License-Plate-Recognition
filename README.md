@@ -83,9 +83,7 @@ The complete solution is documented in the `License_Plate_Recognition.ipynb` not
 
 ## 📧 Contact
 
-Pavan Mittapalli  
-📬 Email: [Your Email]  
-🔗 LinkedIn: [Your LinkedIn]  
+  
 🌐 Portfolio: [https://raj030222.github.io/raju-portfolio.github.io/](https://raj030222.github.io/raju-portfolio.github.io/)
 
 ---
